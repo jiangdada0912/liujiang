@@ -13,7 +13,7 @@ import com.liujiang.service.DepartsService;
 public class DepartsServiceTest {
 
 	private DepartsService departsService;
-	//sdsds 
+	//第二次修改
 	
 	@Test
 	public void add(){
